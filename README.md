@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Siddhi Agrawal 👋</h1>
+<p align="center">Final-year CSE Student | AI/ML + Backend + Full Stack Developer | 800+ DSA Problems Solved</p>
 
-<!--
-**siddhiiagrawall/siddhiiagrawall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech Computer Science @ GL Bajaj Institute of Technology, Greater Noida (2021–2025)
+- 🧠 Passionate about AI/ML, backend systems, and building scalable applications
+- 🔧 Skilled in Python, C++, React, Django, FastAPI, Docker, Git, and TensorFlow
+- 🤖 Built AI Resume Builder (OpenAI + GPT) and LiDAR-based ML detection system
+- 💡 Currently learning MLOps (CI/CD, observability) and cloud (Terraform, AWS)
+- 🧩 Solved 800+ coding problems across LeetCode, GFG, and CodeStudio
+
+---
+
+### 🔭 Currently Exploring / Open To
+
+| Role                         | Why Me                                                                 |
+|------------------------------|------------------------------------------------------------------------|
+| 🧠 AI/ML Engineer (Intern)    | OpenAI API, GPT, scikit-learn, real ML projects                       |
+| 🐳 MLOps Intern               | Dockerizing apps, deploying ML APIs, GitHub Actions                   |
+| ☁️ DevOps / Cloud Intern      | Learning IAC, Terraform, observability, cloud automation              |
+| 🧑‍💻 Full Stack Dev (AI Tools) | React, Django/FastAPI, OpenAI API, GitHub-first project structure     |
+| 🛠️ Backend / SDE Intern       | Django, FastAPI, modular APIs, Docker, CI/CD                          |
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- 🧠 [AI Resume Builder](https://github.com/siddhiiagrawall/ai-resume-builder): Resume builder using OpenAI GPT with custom prompt engineering and Strapi CMS
+- 🗃️ [Project Management System](https://github.com/siddhiiagrawall/project_management): Full-stack Django app with authentication, CRUD operations, and Docker deployment
+- 🤖 [LiDAR + ML Detection](https://github.com/siddhiiagrawall/scheduler): Machine learning system for pallet detection using LiDAR and scikit-learn
+- 📊 [CPU Scheduler](https://github.com/siddhiiagrawall/scheduler): Simulated 8 CPU scheduling algorithms in C++ with performance visualization
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhiiagrawall&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhiiagrawall&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/siddhi-agrawal-831328237)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a.siddhi0101@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/agrawalriddhisiddhi8/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://siddhi-portfolio-rose.vercel.app/)
+
+---
+
+<p align="center"><i>“Probably has a cool GitHub README 😎”</i></p>
