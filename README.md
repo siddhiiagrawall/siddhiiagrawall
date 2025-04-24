@@ -42,19 +42,28 @@
 
 - 🧠 [AI Resume Builder](https://github.com/siddhiiagrawall/ai-resume-builder): Resume builder using OpenAI GPT with custom prompt engineering and Strapi CMS
 - 🗃️ [Project Management System](https://github.com/siddhiiagrawall/project_management): Full-stack Django app with authentication, CRUD operations, and Docker deployment
-- 🤖 [LiDAR + ML Detection](https://github.com/siddhiiagrawall/scheduler): Machine learning system for pallet detection using LiDAR and scikit-learn
+- 🤖 [LiDAR + ML Detection]: Machine learning system for pallet detection using LiDAR and scikit-learn
 - 📊 [CPU Scheduler](https://github.com/siddhiiagrawall/scheduler): Simulated 8 CPU scheduling algorithms in C++ with performance visualization
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhiiagrawall&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhiiagrawall&theme=tokyonight" width="48%" />
-</p>
+**🚀 Graduate Engineer Trainee – Futuristic Bots**  
+*Nov 2024 – Present*  
+- Developed ML-based pallet detection system using LiDAR and scikit-learn with 85% accuracy, improving warehouse automation.  
+- Refactored robotic control algorithms using CAN bus sensor integration, reducing latency by 40%.  
+- Deployed secure Python-based kiosk-mode systems across 100+ production units.  
+- Contributed to modular robotics software design in Python & C++ under Linux.
 
----
+**🧩 Software Development Intern – STYX**  
+*Jul 2024 – Aug 2024*  
+- Designed and developed a policy tracking dashboard using React.js and Tailwind CSS.  
+- Integrated Appwrite backend with authentication and data handling.  
+- Improved UI performance by 35% and fixed inconsistencies through thorough testing.  
+- Collaborated in a fast-paced team environment to ship production-ready code.
+
+----
 
 ### 📫 Let’s Connect
 
