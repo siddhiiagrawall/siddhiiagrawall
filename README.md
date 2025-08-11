@@ -1,38 +1,42 @@
 <h1 align="center">Hi, I'm Siddhi Agrawal 👋</h1>
-<p align="center">Final-year CSE Student | AI/ML + Backend + Full Stack Developer | 800+ DSA Problems Solved</p>
+<p align="center">Software Engineer | AI/ML + Full Stack + Mobile Development | 800+ DSA Problems Solved</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science @ GL Bajaj Institute of Technology, Greater Noida (2021–2025)
+- 🎓 Final-year B.Tech CSE @ GL Bajaj Institute of Technology & Management (2021–2025)
+- 🚀 Software Engineer Intern @ **Progress (ShareFile)** — Optimizing UI systems & API performance for 500K+ users
 - 🧠 Passionate about AI/ML, backend systems, and building scalable applications
-- 🔧 Skilled in Python, C++, React, Django, FastAPI, Docker, Git, and TensorFlow
-- 🤖 Built AI Resume Builder (OpenAI + GPT) and LiDAR-based ML detection system
-- 💡 Currently learning MLOps (CI/CD, observability) and cloud (Terraform, AWS)
-- 🧩 Solved 800+ coding problems across LeetCode, GFG, and CodeStudio
+- 🛠 Skilled in Python, JavaScript/TypeScript, React, React Native, Django, Node.js, PostgreSQL, and BFF Architecture
+- 🏆 Finalist — **Smart India Hackathon 2023** (Top 1% of 5000+ teams)
+- 🧩 Solved 800+ coding problems on LeetCode, GFG, and CodeStudio
 
 ---
 
-### 🔭 Currently Exploring / Open To
+### 🔭 Currently Open To
 
-| Role                         | Why Me                                                                 |
-|------------------------------|------------------------------------------------------------------------|
-| 🧠 AI/ML Engineer (Intern)    | OpenAI API, GPT, scikit-learn, real ML projects                       |
-| 🐳 MLOps Intern               | Dockerizing apps, deploying ML APIs, GitHub Actions                   |
-| ☁️ DevOps / Cloud Intern      | Learning IAC, Terraform, observability, cloud automation              |
-| 🧑‍💻 Full Stack Dev (AI Tools) | React, Django/FastAPI, OpenAI API, GitHub-first project structure     |
-| 🛠️ Backend / SDE Intern       | Django, FastAPI, modular APIs, Docker, CI/CD                          |
+| Role                          | Why Me                                                                  |
+|--------------------------------|--------------------------------------------------------------------------|
+| 🧠 AI/ML Engineer              | LangChain, HuggingFace, scikit-learn, real-world AI projects             |
+| 📱 Mobile App Developer        | React Native, Expo, secure auth, backend integrations                   |
+| ☁️ Backend Developer / SDE     | Django, Node.js, REST APIs, scalable architectures                       |
+| 🧑‍💻 Full Stack Developer       | React, Next.js, Tailwind, PostgreSQL, cloud deployments                  |
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
@@ -40,35 +44,33 @@
 
 ### 📌 Featured Projects
 
-- 🧠 [AI Resume Builder](https://github.com/siddhiiagrawall/ai-resume-builder): Resume builder using OpenAI GPT with custom prompt engineering and Strapi CMS
-- 🗃️ [Project Management System](https://github.com/siddhiiagrawall/project_management): Full-stack Django app with authentication, CRUD operations, and Docker deployment
-- 🤖 [LiDAR + ML Detection]: Machine learning system for pallet detection using LiDAR and scikit-learn
-- 📊 [CPU Scheduler](https://github.com/siddhiiagrawall/scheduler): Simulated 8 CPU scheduling algorithms in C++ with performance visualization
+- 🧠 **[AI Document Extractor](#)** — Extracts structured data from unstructured docs using HuggingFace models, React.js UI for previews & JSON downloads.
+- 💳 **[React Native Wallet App](#)** — Cross-platform wallet with Clerk authentication, real-time sync, and Redis-powered backend.
+- 📊 **[Project Management System](#)** — Role-based dashboards for admin/manager/employee workflows built in Django.
+- 🤖 **[LiDAR + ML Detection](#)** — Achieved 85% accuracy in pallet detection for warehouse automation using scikit-learn.
 
 ---
 
 ### 💼 Experience
 
-**🚀 Graduate Engineer Trainee – Futuristic Bots**  
-*Nov 2024 – Present*  
-- Developed ML-based pallet detection system using LiDAR and scikit-learn with 85% accuracy, improving warehouse automation.  
-- Refactored robotic control algorithms using CAN bus sensor integration, reducing latency by 40%.  
-- Deployed secure Python-based kiosk-mode systems across 100+ production units.  
-- Contributed to modular robotics software design in Python & C++ under Linux.
+**🚀 Software Engineer Intern – Progress (ShareFile)**  
+*Jul 2025 – Present*  
+- Built **15+ reusable React Native components** to speed up UI development  
+- Integrated **BFF architecture** reducing API latency by 15% for 500K+ users  
+- Resolved 20+ critical UI/functional bugs, reducing production issues by 30%
 
-**🧩 Software Development Intern – STYX**  
-*Jul 2024 – Aug 2024*  
-- Designed and developed a policy tracking dashboard using React.js and Tailwind CSS.  
-- Integrated Appwrite backend with authentication and data handling.  
-- Improved UI performance by 35% and fixed inconsistencies through thorough testing.  
-- Collaborated in a fast-paced team environment to ship production-ready code.
+**⚡ Software Development Intern – Futuristic Bots**  
+*Nov 2024 – Apr 2025*  
+- Engineered Django backend for 100+ req/sec with 99.8% uptime  
+- Developed ML LiDAR pallet detection system (85% accuracy)  
+- Boosted data processing efficiency by 40% via multithreaded ROS-CAN bridge
 
-----
+---
 
 ### 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/siddhi-agrawal-831328237)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a.siddhi0101@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a.siddhi0101@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/agrawalriddhisiddhi8/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://siddhi-portfolio-rose.vercel.app/)
 
