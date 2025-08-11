@@ -75,5 +75,3 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://siddhi-portfolio-rose.vercel.app/)
 
 ---
-
-<p align="center"><i>“Probably has a cool GitHub README 😎”</i></p>
