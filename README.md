@@ -5,7 +5,6 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech CSE @ GL Bajaj Institute of Technology & Management (2021–2025)
 - 🚀 Software Engineer Intern @ **Progress (ShareFile)** — Optimizing UI systems & API performance for 500K+ users
 - 🧠 Passionate about AI/ML, backend systems, and building scalable applications
 - 🛠 Skilled in Python, JavaScript/TypeScript, React, React Native, Django, Node.js, PostgreSQL, and BFF Architecture
