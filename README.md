@@ -1,76 +1,45 @@
-<h1 align="center">Hi, I'm Siddhi Agrawal 👋</h1>
-<p align="center">Software Engineer | AI/ML + Full Stack + Mobile Development | 800+ DSA Problems Solved</p>
+<div align="center">
+  <h1>Siddhi Agrawal</h1>
+  <p>Software Engineer | Full Stack Developer | AI/ML Enthusiast</p>
+  <p>Building scalable systems and impactful applications using modern technologies.</p>
+  <p>Finalist at Smart India Hackathon | Open Source Contributor | Solved 800+ LeetCode problems</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/siddhi-agrawal-831328237">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <a href="https://leetcode.com/u/agrawalriddhisiddhi8/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge">
+    </a>
+    <a href="https://siddhi-portfolio-rose.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-2B8A3E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
+    </a>
+  </p>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### About
+A dedicated Software Engineer Intern with a strong foundation in full-stack development, from front-end frameworks like **React Native** to robust backend services using **Django**. Driven by a passion for solving complex problems and a keen interest in designing and implementing **scalable systems**. Excels in Agile/Scrum environments and is always eager to learn and contribute to impactful projects.
 
-- 🚀 Software Engineer Intern @ **Progress (ShareFile)** — Optimizing UI systems & API performance for 500K+ users
-- 🧠 Passionate about AI/ML, backend systems, and building scalable applications
-- 🛠 Skilled in Python, JavaScript/TypeScript, React, React Native, Django, Node.js, PostgreSQL, and BFF Architecture
-- 🏆 Finalist — **Smart India Hackathon 2023** (Top 1% of 5000+ teams)
-- 🧩 Solved 800+ coding problems on LeetCode, GFG, and CodeStudio
+### Technical Skills
+*   **Languages:** Python, JavaScript, TypeScript, C++, SQL
+*   **Frontend:** React.js, React Native, Next.js, Tailwind CSS, Redux
+*   **Backend:** Django, Node.js, Express.js, REST APIs, BFF Architecture
+*   **Databases:** PostgreSQL, SQLite, Redis
+*   **AI/ML:** LangChain, Hugging Face, scikit-learn
+*   **Tools & Platforms:** Git, Postman, Jira, CI/CD, Linux
 
----
+### Featured Projects
+*   **AI Document Extractor**
+    *   **Technologies:** React.js, Django, HuggingFace
+    *   **Summary:** Built an AI-powered parser for unstructured documents using HuggingFace Transformers, featuring an interactive React UI with JSON export.
+*   **React Native Wallet App**
+    *   **Technologies:** React Native, Express.js, PostgreSQL, Redis
+    *   **Summary:** Developed a secure, cross-platform wallet app with real-time sync and robust backend orchestration.
+*   **Futuristic Bots** (Internship Project)
+    *   **Technologies:** Django, Python, AI/ML
+    *   **Summary:** Developed scalable Django services and an ML-based LiDAR pallet detection system for warehouse automation, demonstrating high accuracy and performance.
 
-### 🔭 Currently Open To
+### Get in Touch
+Connect and collaborate. Reach out via [LinkedIn](https://linkedin.com/in/siddhi-agrawal-831328237) or explore the portfolio.
 
-| Role                          | Why Me                                                                  |
-|--------------------------------|--------------------------------------------------------------------------|
-| 🧠 AI/ML Engineer              | LangChain, HuggingFace, scikit-learn, real-world AI projects             |
-| 📱 Mobile App Developer        | React Native, Expo, secure auth, backend integrations                   |
-| ☁️ Backend Developer / SDE     | Django, Node.js, REST APIs, scalable architectures                       |
-| 🧑‍💻 Full Stack Developer       | React, Next.js, Tailwind, PostgreSQL, cloud deployments                  |
-
----
-
-### 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-- 🧠 **[AI Document Extractor](#)** — Extracts structured data from unstructured docs using HuggingFace models, React.js UI for previews & JSON downloads.
-- 💳 **[React Native Wallet App](#)** — Cross-platform wallet with Clerk authentication, real-time sync, and Redis-powered backend.
-- 📊 **[Project Management System](#)** — Role-based dashboards for admin/manager/employee workflows built in Django.
-- 🤖 **[LiDAR + ML Detection](#)** — Achieved 85% accuracy in pallet detection for warehouse automation using scikit-learn.
-
----
-
-### 💼 Experience
-
-**🚀 Software Engineer Intern – Progress (ShareFile)**  
-*Jul 2025 – Present*  
-- Built **15+ reusable React Native components** to speed up UI development  
-- Integrated **BFF architecture** reducing API latency by 15% for 500K+ users  
-- Resolved 20+ critical UI/functional bugs, reducing production issues by 30%
-
-**⚡ Software Development Intern – Futuristic Bots**  
-*Nov 2024 – Apr 2025*  
-- Engineered Django backend for 100+ req/sec with 99.8% uptime  
-- Developed ML LiDAR pallet detection system (85% accuracy)  
-- Boosted data processing efficiency by 40% via multithreaded ROS-CAN bridge
-
----
-
-### 📫 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/siddhi-agrawal-831328237)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:a.siddhi0101@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/agrawalriddhisiddhi8/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://siddhi-portfolio-rose.vercel.app/)
-
----
